@@ -53,6 +53,10 @@ header nav ul li a:hover {
     padding: 20px;
 }
 
+section p {
+    font-size: 20px;
+}
+
 #run-buddy-work img {
     width: 35%;
     padding: 50px;
