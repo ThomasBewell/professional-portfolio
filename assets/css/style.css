@@ -58,7 +58,7 @@ section p {
 }
 
 #run-buddy-work img {
-    width: 35%;
+    width: 100%;
     padding: 50px;
 }
 
@@ -68,22 +68,9 @@ section p {
     font-size: 20px;
 }
 
-#placeholder-work-1 {
-    border: 1px solid;
-    width: 300px;
-    height: 150px;
-    position: relative;
-    right: 39%;
-    top: 100px;
-}
-
-#placeholder-work-2 {
-    border: 1px solid;
-    width: 300px;
-    height: 150px;
-    position: relative;
-    right: 35%;
-    top: 100px;
+.placeholder-work img {
+    width: 100%;
+    padding: 50px;
 }
 
 footer p a {
